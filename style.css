@@ -1,0 +1,8 @@
+BODY { background: #06e970; margin: 0; }
+   .layout { width: 970px; margin: 0 auto 10px; background: #fff; }
+   .content { margin-right: 350px; padding: 10px; }
+   .sidebar { width: 320px; float: right; background: #f9ffe7; }
+   .footer {
+    clear: both; /* Отмена обтекания */
+    border-top: 1px solid #026628; padding: 10px;
+   }
